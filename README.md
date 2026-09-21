@@ -2,15 +2,19 @@
 
 Research and expository articles by [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/) (Department of Mathematics, University of Connecticut).
 
+### → [Browse the articles by subject](https://alozanoroble.github.io/articles/)
+
+The explorer groups every article into subject areas — ranks, torsion, Galois representations, complex multiplication, and the rest — with a searchable index, abstracts, and full bibliographic details. The table below is the plain list of the same files.
+
 Each PDF is the most recent version available, taken from whichever of my [website](https://alozano.clas.uconn.edu/research-articles/) or [arXiv](https://arxiv.org/search/math?searchtype=author&query=Lozano-Robledo,+A) carries the later copy. These are author versions, not publisher typeset versions; please cite the journal of record listed with each entry.
 
-37 articles (35 published, 2 preprints), 21.4 MB. Numbered by date of publication, oldest first; listed here newest first. Last refreshed 2026-09-21.
+37 articles (36 published, 1 preprint), 21.4 MB. Numbered by date of publication, oldest first; listed here newest first. Last refreshed 2026-09-21.
 
 | # | Article | Published in | Source |
 |---|---|---|---|
 | 37 | [The image of the adelic Galois representation of an elliptic curve with complex multiplication](papers/Lozano-Robledo__Image_of_the_Adelic_Galois_Representation_CM.pdf) | preprint | [arXiv:2603.08545v2](https://arxiv.org/abs/2603.08545v2) · 2026-06-17 |
-| 36 | [Elliptic curves with complex multiplication and abelian division fields](papers/Lozano-Robledo__CM_Elliptic_Curves_and_Abelian_Division_Fields.pdf) | preprint | [arXiv:2308.00668v1](https://arxiv.org/abs/2308.00668v1) · 2023-08-01 |
-| 35 | [Models of CM elliptic curves with a prescribed ℓ-adic Galois image](papers/Lozano-Robledo__Models_of_CM_Elliptic_Curves_with_Prescribed_l-adic_Image.pdf) | Journal of Number Theory 277 (2025), 19–62 | [arXiv:2408.04159v3](https://arxiv.org/abs/2408.04159v3) · 2025-05-22 |
+| 36 | [Models of CM elliptic curves with a prescribed ℓ-adic Galois image](papers/Lozano-Robledo__Models_of_CM_Elliptic_Curves_with_Prescribed_l-adic_Image.pdf) | Journal of Number Theory 277 (2025), 19–62 | [arXiv:2408.04159v3](https://arxiv.org/abs/2408.04159v3) · 2025-05-22 |
+| 35 | [Elliptic curves with complex multiplication and abelian division fields](papers/Lozano-Robledo__CM_Elliptic_Curves_and_Abelian_Division_Fields.pdf) | Journal of the London Mathematical Society 110 (2024), no. 6 | [arXiv:2308.00668v1](https://arxiv.org/abs/2308.00668v1) · 2023-08-01 |
 | 34 | [Towards a classification of entanglements of Galois representations attached to elliptic curves](papers/Lozano-Robledo__Classification_of_Entanglements_of_Galois_Representations.pdf) | Revista Matemática Iberoamericana 39 (2023), no. 3, 803–844 | [arXiv:2105.02060v4](https://arxiv.org/abs/2105.02060v4) · 2024-06-03 |
 | 33 | [Coincidences of division fields](papers/Lozano-Robledo__Coincidences_of_Division_Fields.pdf) | Annales de l'Institut Fourier 73 (2023), no. 1, 163–202 | [arXiv:1912.05618v2](https://arxiv.org/abs/1912.05618v2) · 2021-06-23 |
 | 32 | [How to referee a (math) paper](papers/Lozano-Robledo__How_to_Referee_a_Math_Paper.pdf) | Notices of the AMS (January 2023), 71–74 | website · 2022-07-27 |
