@@ -1,3 +1,18 @@
+# Moved: Álvaro Lozano-Robledo's articles
+
+**These articles now live on the main site:**
+<https://alozanoroble.github.io/books/#articles> (the Articles view of *Books and Articles*).
+
+Since 2026-09-24 this repository no longer publishes a GitHub Pages site.
+`https://alozanoroble.github.io/articles/` redirects to the new page, and every
+PDF keeps its old address, `https://alozanoroble.github.io/articles/papers/<file>.pdf`,
+now served from the main site.
+
+The files below are kept as a frozen record; the maintained copies are in the
+main site's source.
+
+---
+
 # Articles
 
 Research and expository articles by [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/) (Department of Mathematics, University of Connecticut).
